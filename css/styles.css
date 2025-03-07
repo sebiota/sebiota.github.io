@@ -5,50 +5,46 @@ body {
 	color: #e44009;
 	padding-top: 20px;
 }
-     #title {
+#subtitle {
        margin: auto;
        border: 2px solid #000000;
        padding: 10px;
        border-radius: 15px;
        width:250px;
        background: #e44009;
-     }
-     h3 {
+}
+h3 {
        margin-top: 0px;
        margin-bottom: 0px;
-     }
-     #box {
+}
+#box {
        margin: auto;
        width: 750px;
-     }
-     /* Add a black background color to the top navigation */
-.topnav {
-  background-color: #333333;
-  overflow: hidden;
-
-
 }
-
-
-/* Style the links inside the navigation bar */
-.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
+     
+/* Navigation */
+.nav {
+	background-color: #333333;
+        list-style: none;
+        margin: 0;
+        text-align: center; 
+        width: 100%;
 }
-
-/* Change the color of links on hover */
-.topnav a:hover {
-  background-color: #dddddd;
-  color: black;
+.nav li {
+        display: inline; 
+}  
+.nav a {
+        color: #e1e1e1;
+        /* display: inline-block; */
+        padding: 10px;
+        text-decoration: none;
 }
-
-/* Add an active class to highlight the current page */
-.topnav a.active {
-  background-color: #e44009;
-  color: white;
+.nav a:hover {
+        color: #333333;
+        background-color: #e44009;
+        text-decoration: none;
+}
+.nav a.active {
+	background-color: #e44009;
+        color: #333333;
 }
