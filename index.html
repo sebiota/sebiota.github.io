@@ -37,16 +37,43 @@
           display: inline-block; /* « Last bit of magic. */
           padding: 10px;
       }
+
+      nav {
+        background-colour: #dddddd;
+        min-height: 50px;
+        text-align: center;
+        line-height: 50px;
+      }
+      nav a {
+        outline: 2px solid #dddddd;
+        padding: 8px 16px;
+        font-size: 1.5em;
+        text-decoration: none;
+        
+      }
+      
     </style>
     </head>
   <body align="center">
     <ul class="nav">
-      <li><a href="/">Home</a></li>
-      <li><a href="/about/">About</a></li>
-      <li><a href="/services/">Work</a></li>
-      <li><a href="/clients/">Clients</a></li>
-      <li><a href="/contact/">Contact</a></li>
+      <li><a href="index.html">Acceuil</a></li>
+      <li><a href="poeme.html">Poème</a></li>
+      <li><a href="voyage.html">Voyage</a></li>
+      <li><a href="biographie">Biographie</a></li>
     </ul>
+    <div id="container">
+      <header>header</header>
+      <nav>
+        <a href="index.html">Acceuil</a>
+        <a href="poeme.html">Poème</a>
+        <a href="voyage.html">Voyage</a>
+        <a href="biographie.html">Biographie</a>
+      </nav>
+    </div>
+
+
+
+      
     <div class="topnav" id="myTopnav">
       <a href="index.html" class="active">Acceuil</a>
       <a href="poeme.html">Poème</a>
