@@ -19,17 +19,39 @@
         border-radius: 15px;
         background-color: #e1e1e1;
         font-size: 25px;
-      }        
+      }
+      .nav {
+        border: 1px solid #ccc;
+        border-width: 1px 0;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        text-align: center; /* « The magic. */
+      }
+
+      .nav li {
+          display: inline; /* « More magic. */
+      }
+      
+      .nav a {
+          display: inline-block; /* « Last bit of magic. */
+          padding: 10px;
+      }
     </style>
     </head>
   <body align="center">
-    <div align="center">
-      <div class="topnav" id="myTopnav">
-        <a href="index.html" class="active">Acceuil</a>
-        <a href="poeme.html">Poème</a>
-        <a href="voyage.html">Voyage</a>
-        <a href="biographie.html">Biographie</a>
-      </div>
+    <ul class="nav">
+      <li><a href="/">Home</a></li>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/services/">Work</a></li>
+      <li><a href="/clients/">Clients</a></li>
+      <li><a href="/contact/">Contact</a></li>
+    </ul>
+    <div class="topnav" id="myTopnav">
+      <a href="index.html" class="active">Acceuil</a>
+      <a href="poeme.html">Poème</a>
+      <a href="voyage.html">Voyage</a>
+      <a href="biographie.html">Biographie</a>
     </div>
     <h1 class="title">Portfolio Web</h1>
     <center>
