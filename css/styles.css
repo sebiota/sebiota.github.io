@@ -1,6 +1,10 @@
 body {
 	font-family: Poppins;
 }
+h3 {
+       margin-top: 0px;
+       margin-bottom: 0px;
+}
 .title {
 	color: #e44009;
 	padding-top: 20px;
@@ -12,10 +16,6 @@ body {
        border-radius: 15px;
        width:250px;
        background: #e44009;
-}
-h3 {
-       margin-top: 0px;
-       margin-bottom: 0px;
 }
 #box {
        margin: auto;
