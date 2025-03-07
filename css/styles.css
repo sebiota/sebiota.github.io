@@ -10,14 +10,7 @@ h3 {
 	color: #e44009;
 	padding-top: 20px;
 }
-#subtitle {
-       margin: auto;
-       border: 2px solid #000000;
-       padding: 10px;
-       border-radius: 15px;
-       width:250px;
-       background: #EA2839;
-}
+
 #box {
        margin: auto;
        width: 750px;
