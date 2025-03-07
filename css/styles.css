@@ -1,7 +1,54 @@
 body {
-	font-family: Milonga;
+	font-family: Poppins;
 }
 .title {
 	color: #e44009;
 	padding-top: 20px;
+}
+     #title {
+       margin: auto;
+       border: 2px solid #000000;
+       padding: 10px;
+       border-radius: 15px;
+       width:250px;
+       background: #e44009;
+     }
+     h3 {
+       margin-top: 0px;
+       margin-bottom: 0px;
+     }
+     #box {
+       margin: auto;
+       width: 750px;
+     }
+     /* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333333;
+  overflow: hidden;
+
+
+}
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #dddddd;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #e44009;
+  color: white;
 }
