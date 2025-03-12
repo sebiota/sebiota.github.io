@@ -62,7 +62,7 @@ h3 {
         display: inline-block; 
         text-decoration: none;
         margin: 0px;
-        padding: 20px;
+        padding: 20px 20px 0px 0px;
         width: 250px;
         font-size: 12px;
         transition: transform 0.3s ease, filter 0.3 ease;
