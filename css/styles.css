@@ -52,7 +52,7 @@ h3 {
       .col {
         list-style: none;
         margin: 0;
-        text-align: center; 
+        text-align: left; 
       }
       .col li {
         display: inline; 
