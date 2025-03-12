@@ -20,7 +20,7 @@ h3 {
 }
 #box {
        margin: auto;
-       width: 750px;
+       width: 1000px;
 }
 /* Navigation */
 .nav {
@@ -64,7 +64,7 @@ h3 {
         margin: 10px;
         padding: 20px;
         width: 250px;
-        font-size: 10px;
+        font-size: 12px;
         transition: transform 0.3s ease, filter 0.3 ease;
       }
       .col a:hover {
