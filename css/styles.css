@@ -17,6 +17,7 @@ h3 {
        border-radius: 15px;
        width:250px;
        background: #EA2839;
+	color: #e1e1e1;
 
 }
 #subtitle2 {
@@ -26,6 +27,7 @@ h3 {
        border-radius: 15px;
        width:250px;
        background: #1A206D;
+	color: #e1e1e1;
 }
 #subtitle3 {
        margin: auto;
@@ -34,6 +36,7 @@ h3 {
        border-radius: 15px;
        width:250px;
        background: #FFD500;
+	color: #e1e1e1;
 }
 #subtitle4 {
        margin: auto;
@@ -42,6 +45,7 @@ h3 {
        border-radius: 15px;
        width:250px;
        background: #00A551;
+	color: #e1e1e1;
 }
 #box {
        margin: auto;
