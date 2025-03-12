@@ -10,48 +10,18 @@ h3 {
 	color: #e44009;
 	padding-top: 20px;
 }
-#subtitle1 {
+#subtitle {
        margin: auto;
        border: 2px solid #000000;
        padding: 10px;
        border-radius: 15px;
        width:250px;
        background: #EA2839;
-	color: #e1e1e1;
-
-}
-#subtitle2 {
-       margin: auto;
-       border: 2px solid #000000;
-       padding: 10px;
-       border-radius: 15px;
-       width:250px;
-       background: #1A206D;
-	color: #e1e1e1;
-}
-#subtitle3 {
-       margin: auto;
-       border: 2px solid #000000;
-       padding: 10px;
-       border-radius: 15px;
-       width:250px;
-       background: #FFD500;
-	color: #e1e1e1;
-}
-#subtitle4 {
-       margin: auto;
-       border: 2px solid #000000;
-       padding: 10px;
-       border-radius: 15px;
-       width:250px;
-       background: #00A551;
-	color: #e1e1e1;
 }
 #box {
        margin: auto;
        width: 750px;
 }
-     
 /* Navigation */
 .nav {
 	background-color: #333333;
