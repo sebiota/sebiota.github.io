@@ -48,7 +48,7 @@ h3 {
         text-decoration: none;
 }
 .nav a:hover {
-        color: #333333;
+	color: #333333;
         background-color: #e44009;
         text-decoration: none;
 }
@@ -57,36 +57,39 @@ h3 {
         color: #333333;
 }
 /* Styles des colonnes */
-      .col {
-        list-style: none;
-        margin: 0;
-        text-align: left; 
-      }
-      .col li {
-        display: inline; 
-      }
-      .col a {
-        color: #333333;
-        display: inline-block; 
-        text-decoration: none;
-        margin: 0px;
-        padding: 20px 20px 0px 0px;
-        width: 250px;
-        font-size: 12px;
-        transition: transform 0.3s ease, filter 0.3 ease;
-      }
-      .col a:hover {
-        color: #e44009;
-        text-decoration: none;
-        transform: scale(1.07);
-        
-      }
-      .col a.active {
+.col {
+	list-style: none;
+	margin: 0;
+	text-align: left; 
+}
+.col li {
+	display: inline; 
+}
+.col a {
+	color: #333333;
+	display: inline-block; 
+	text-decoration: none;
+	margin: 0px;
+	padding: 20px 20px 0px 0px;
+	width: 250px;
+	font-size: 12px;
+	transition: transform 0.3s ease, filter 0.3 ease;
+}
+.col a:hover {
+	color: #e44009;
+	text-decoration: none;
+	transform: scale(1.07);
+}
+.col a.active {
         background-color: #e44009;
         color: #333333;
-      }
-.column {
-  float: left;
-  width: 25%;
 }
-
+.column {
+	float: left;
+  	width: 25%;
+}
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
