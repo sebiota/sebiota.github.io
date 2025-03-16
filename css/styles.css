@@ -18,6 +18,14 @@ h3 {
        width:250px;
        background: #e44009;
 }
+#subtitle2 {
+       margin: auto;
+       border: 2px solid #000000;
+       padding: 10px;
+       border-radius: 15px;
+       width:250px;
+       background: #ffffff;
+}
 #box {
        margin: auto;
        width: 900px;
