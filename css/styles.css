@@ -85,7 +85,14 @@ h3 {
         background-color: #e44009;
         color: #333333;
       }
-#float {
-float: left;    
-	margin: 0 15px 50px 25px;
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
