@@ -10,6 +10,9 @@ h3 {
 	color: #e44009;
 	padding-top: 20px;
 }
+img {
+    border-radius: 5%;
+}
 #subtitle {
        margin: auto;
        border: 2px solid #000000;
