@@ -109,5 +109,5 @@ img {
   display: inline-block;
 }
 .back a:hover, a:active {
-  background-color: red;
+  background-color: #f44336;
 }
