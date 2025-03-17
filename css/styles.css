@@ -57,7 +57,7 @@ img {
 .nav li {
         display: inline; 
 }  
-.nav a {
+.nav a, a:visited {
         color: #e1e1e1;
         display: inline-block;
         padding: 10px;
@@ -81,7 +81,7 @@ img {
 .col li {
 	display: inline; 
 }
-.col a {
+.col a, a:visited {
 	color: #333333;
 	display: inline-block; 
 	text-decoration: none;
@@ -96,7 +96,7 @@ img {
 	text-decoration: none;
 	transform: scale(1.07);
 }
-.col a.active {
+.col a:active {
         background-color: #e44009;
         color: #333333;
 }
