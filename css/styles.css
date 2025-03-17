@@ -100,14 +100,3 @@ img {
         background-color: #e44009;
         color: #333333;
 }
-.back a:link, a:visited {
-  background-color: #f44336;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-.back a:hover, a:active {
-  background-color: #f44336;
-}
