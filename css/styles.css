@@ -13,6 +13,12 @@ h3 {
 img {
     border-radius: 5%;
 }
+#section {
+	width: 100%;
+        background-color: #E9F4FF;
+        padding-top: 40px;
+        padding-bottom: 40px;
+}
 #subtitle {
        margin: auto;
        border: 2px solid #000000;
