@@ -100,16 +100,3 @@ img {
         background-color: #e44009;
         color: #333333;
 }
-.row {
-	width: 1000px;
-	align: center;
-}
-.column {
-	float: left;
-  	width: 25%;
-}
-.row:after {
-	content: "";
-	display: table;
-	clear: both;
-}
