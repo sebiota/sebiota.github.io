@@ -13,6 +13,9 @@ h3 {
 img {
     border-radius: 5%;
 }
+a:visited {
+  color: blue;
+}
 #section {
 	width: 100%;
         background-color: #E9F4FF;
