@@ -103,3 +103,6 @@ a:visited {
         background-color: #e44009;
         color: #333333;
 }
+.button {
+	margin: 20px;
+}
