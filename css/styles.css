@@ -123,6 +123,10 @@ button {
 	transition-duration: 0.4s;
 	background-color: #bbbbbb;
 }
+.button:active {
+	color: #000000;
+}
 .button:hover {
-    	background-color: #aaaaaa;
+    	background-color: #333333;
+	color: #ffffff;
 }
