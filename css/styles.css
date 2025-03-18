@@ -118,9 +118,11 @@ button {
     	margin-top: 20px;
     	border-radius: 12px;
     	border: 0px;
-    	background-color: #bbbbbb;
 	font-size: 10pt;
 	color: #000000;
+}
+.button a:link, a:visited {
+	background-color: #bbbbbb;
 }
 .button a:hover {
     	background-color: #aaaaaa;
