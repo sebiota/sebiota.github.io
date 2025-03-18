@@ -119,6 +119,7 @@ button {
     	border-radius: 12px;
     	border: 0px;
     	background-color: #bbbbbb;
+	font-size: 10pt;
 }
 .button a:hover {
     	background-color: #aaaaaa;
