@@ -104,9 +104,12 @@ a:visited {
         color: #333333;
 }
 button {
-	padding: 5px 10px;
-	margin-left: 20px;
-	margin-top: 20px;
+	padding: 10px 15px;
+    	margin-left: 20px;
+    	margin-top: 20px;
+    	border-radius: 12px;
+    	border: 0px;
+    	background-color: #bbbbbb;
 }
 .button {
 	text-decoration: none;
