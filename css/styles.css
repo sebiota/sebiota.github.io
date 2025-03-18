@@ -120,6 +120,7 @@ button {
     	border: 0px;
     	background-color: #bbbbbb;
 	font-size: 10pt;
+	color: #000000;
 }
 .button a:hover {
     	background-color: #aaaaaa;
