@@ -103,14 +103,6 @@ a:visited {
         background-color: #e44009;
         color: #333333;
 }
-button {
-	padding: 10px 15px;
-    	margin-left: 20px;
-    	margin-top: 20px;
-    	border-radius: 12px;
-    	border: 0px;
-    	background-color: #bbbbbb;
-}
 .button {
 	text-decoration: none;
 	padding: 10px 15px;
