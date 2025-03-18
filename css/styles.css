@@ -3,18 +3,18 @@ body {
 	margin: 0px;
 }
 h3 {
-       margin-top: 0px;
-       margin-bottom: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 .title {
 	color: #e44009;
 	padding-top: 20px;
 }
 img {
-    border-radius: 5%;
+	border-radius: 5%;
 }
 a:visited {
-  color: blue;
+	color: blue;
 }
 #section {
 	width: 100%;
