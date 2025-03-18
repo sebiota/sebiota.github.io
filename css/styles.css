@@ -120,11 +120,9 @@ button {
     	border: 0px;
 	font-size: 10pt;
 	color: #000000;
-}
-.button a:link, a:visited {
+	transition-duration: 0.4s;
 	background-color: #bbbbbb;
 }
-.button a:hover {
+.button:hover {
     	background-color: #aaaaaa;
-	transition: transform 0.3s ease, filter 0.3 ease;
 }
