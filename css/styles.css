@@ -1,3 +1,4 @@
+/* Type de police sur mes mots */
 body {
 	font-family: Poppins;
 	margin: 0px;
@@ -13,6 +14,7 @@ h3 {
 img {
 	border-radius: 5%;
 }
+/* Couleur du lien quand déja visiter */
 a:visited {
 	color: blue;
 }
